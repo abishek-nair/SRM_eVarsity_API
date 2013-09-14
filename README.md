@@ -1,6 +1,6 @@
 SRM eVarsity API
 ================
-An API for [*SRM University's eVarsity platform (ERP)*](evarsity.srmuniv.ac.in/srmswi/usermanager/youLogin.jsp) developed in PHP.
+An API for [*SRM University's eVarsity platform (ERP)*](http://evarsity.srmuniv.ac.in/srmswi/usermanager/youLogin.jsp) developed in PHP.
 
 
 - Provides a flexible and easy to implement API in PHP to interact with the SRM University eVarsity platform.
