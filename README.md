@@ -1,3 +1,6 @@
+WARNING : This API will not work temporarily due to use of CAPTCHA in the eVarsity application.
+===============================================================================================
+
 SRM eVarsity API
 ================
 An API for [*SRM University's eVarsity platform (ERP)*](http://evarsity.srmuniv.ac.in/srmswi/usermanager/youLogin.jsp) developed in PHP.
